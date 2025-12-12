@@ -17,10 +17,11 @@ gcc doubly_linked_list.c -o doubly_linked_list
 Run the executable:
 ./doubly_linked_list   # On Linux/Mac
 doubly_linked_list.exe # On Windows
+**You will see the list printed forward and backward. ---> Example Output:**
+                         **Forward: 30 -> 20 -> 99 -> 10 -> 40 -> 50 -> NULL**
+                         **Backward: 50 -> 40 -> 10 -> 99 -> 20 -> 30 -> NULL***
 
-You will see the list printed forward and backward. ---> Example Output:
-                         Forward: 30 -> 20 -> 99 -> 10 -> 40 -> 50 -> NULL
-                         Backward: 50 -> 40 -> 10 -> 99 -> 20 -> 30 -> NULL
+                         
 title: "Doubly Linked List in C"
 author: "Mufaiz Bashir"
 date: "2025-12-12"
