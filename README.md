@@ -22,7 +22,6 @@ doubly_linked_list.exe # On Windows
                          **Backward: 50 -> 40 -> 10 -> 99 -> 20 -> 30 -> NULL***
 
                          
-title: "Doubly Linked List in C"
-author: "Mufaiz Bashir"
-date: "2025-12-12"
----
+**title: "Doubly Linked List in C"**
+**author: "Mufaiz Bashir"**
+**date: "2025-12-12"**
